@@ -41,6 +41,8 @@ phonegap/.cordova/config.json
 .Trashes
 ehthumbs.db
 Thumbs.db
+*.swp
+*~
 
 # Node.js specific
 ##################
